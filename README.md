@@ -15,6 +15,8 @@ A broad showcase of work across automation, data pipelines, real-time systems, a
 | [slack-crm-automation](./slack-crm-automation/) | Gmail push→CRM windowing, quote stripping, bot-resistant email tracking (no third party), Slack ops notifications. Links to real repo. |
 | [seeka](./seeka/) | Opportunity discovery + research pipeline: parallel company research fan-out, configurable weighted scoring engine, priority triage. |
 | [trend-finder-lite](./trend-finder-lite/) | Write-up only: distributed work-queue architecture for large-scale content trend collection — admission control, runtime config, IP rotation. |
+| [creator-discovery-engine](./creator-discovery-engine/) | Write-up only: RocketAPI scrape → engagement-velocity scoring → creator ranking — dual output for content intelligence and partner prioritisation. |
+| [prompt-library](./prompt-library/) | Versioned reusable prompt templates (decision memo, PRD-lite, debug triage, outbound email) with structured JSON output schemas. |
 | [video-pipeline](./video-pipeline/) | Template-driven FFmpeg renderer: deterministic branding overlays (logo, watermark, text), aspect-ratio conversion, endcard concat. |
 | [dj-highlight-detector](./dj-highlight-detector/) | No-ML highlight detection from DJ sets: RMS/bass spectral analysis, beat-snapping, visual diversity selection via frame histogram. |
 | [blender-studio](./blender-studio/) | Next build: Blender MCP pipeline for AI-prompted 3D asset generation (concept). |
@@ -24,6 +26,9 @@ A broad showcase of work across automation, data pipelines, real-time systems, a
 | Project | Description |
 |---------|-------------|
 | [pipeline-kit](./pipeline-kit/) | The pattern as a library — see above. |
+| [directory-discovery-engine](./directory-discovery-engine/) | Write-up only: URL → classify → enrich → dedupe data layer powering festival, venue, gym, and retailer outreach. |
+| [email-discovery-tool](./email-discovery-tool/) | Crawl/enrich → email permutation + SMTP verification → CRM sync. Snippet: Python SMTP prober with catch-all detection and confidence scoring. |
+| [b2b-scoring-model](./b2b-scoring-model/) | 3-factor weighted scoring (size / fit / complexity) → A/B/C tier ranking. Fresh/generic write-up; scoring engine links to pipeline-kit. |
 | [uk-neighbourhood](./uk-neighbourhood/) | 4-API UK neighbourhood report: crime Haversine filter, residential concern weighting, 0–100 safety score, Land Registry price trends. |
 | [vehicle-intel](./vehicle-intel/) | Multi-source VIN decode: pure-Python structural decode + NHTSA + Vincario + UK vehicle data. Alerts for stolen/finance/write-off. |
 | [seeka](./seeka/) | See above. |
@@ -34,6 +39,8 @@ A broad showcase of work across automation, data pipelines, real-time systems, a
 |---------|-------------|
 | [slack-crm-automation](./slack-crm-automation/) | See above. |
 | [n8n-automations](./n8n-automations/) | See above. |
+| [ops-brain](./ops-brain/) | Write-up only: fulfilment anomaly detection, stock forecasting with reorder triggers, supplier scorecards, QC intake workflow. |
+| [shopify-analytics](./shopify-analytics/) | Contribution margin by SKU + channel, cohort LTV, stock forecasting, spend vs revenue (Shopify API + SQL). Snippet: contribution margin query. |
 | [shopify-theme](./shopify-theme/) | Data-driven Liquid sections, idempotent Admin API product migration, section-first architecture. |
 
 ## Full-Stack
