@@ -14,7 +14,6 @@ A broad showcase of work across automation, data pipelines, real-time systems, a
 | [n8n-automations](./n8n-automations/) | Library of sanitised n8n workflows: lead enrichment, SEO writing, social script generation, CRM hygiene. Links to real repo. |
 | [slack-crm-automation](./slack-crm-automation/) | Gmail push→CRM windowing, quote stripping, bot-resistant email tracking (no third party), Slack ops notifications. Links to real repo. |
 | [seeka](./seeka/) | Opportunity discovery + research pipeline: parallel company research fan-out, configurable weighted scoring engine, priority triage. |
-| [trend-finder-lite](./trend-finder-lite/) | Write-up only: distributed work-queue architecture for large-scale content trend collection — admission control, runtime config, IP rotation. |
 | [creator-discovery-engine](./creator-discovery-engine/) | Write-up only: RocketAPI scrape → engagement-velocity scoring → creator ranking — dual output for content intelligence and partner prioritisation. |
 | [prompt-library](./prompt-library/) | Versioned reusable prompt templates (decision memo, PRD-lite, debug triage, outbound email) with structured JSON output schemas. |
 | [video-pipeline](./video-pipeline/) | Template-driven FFmpeg renderer: deterministic branding overlays (logo, watermark, text), aspect-ratio conversion, endcard concat. |
@@ -57,7 +56,6 @@ A broad showcase of work across automation, data pipelines, real-time systems, a
 |---------|-------------|
 | [snipebay](./snipebay/) | Real-time auction tooling: NTP-offset PrecisionTimer (3-phase countdown), SQLite-WAL daemon with crash recovery, multi-strategy scraper. Links to real repo. |
 | [precision-timer](./precision-timer/) | The PrecisionTimer in isolation — lives in the snipebay repo. |
-| [trend-finder-lite](./trend-finder-lite/) | See above. |
 
 ---
 
